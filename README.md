@@ -49,7 +49,7 @@ Example config:
 </config>
 ```
 
-A refenrence of the di.xml file can be found here: 
+A reference of the di.xml file can be found here: 
 
 [https://wiki.magento.com/display/MAGE2DOC/Using+Dependency+Injection#ObjectManager](https://wiki.magento.com/display/MAGE2DOC/Using+Dependency+Injection#ObjectManager)
 
